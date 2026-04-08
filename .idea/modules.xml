@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/06_variables and datatypes/06_variables and datatypes.iml" filepath="$PROJECT_DIR$/06_variables and datatypes/06_variables and datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_operators/07_operators.iml" filepath="$PROJECT_DIR$/07_operators/07_operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_conditional statements/08_conditional statements.iml" filepath="$PROJECT_DIR$/08_conditional statements/08_conditional statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/APNA_JAVA.iml" filepath="$PROJECT_DIR$/APNA_JAVA.iml" />
     </modules>
   </component>
